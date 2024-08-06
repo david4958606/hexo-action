@@ -1,6 +1,6 @@
 FROM node:22-bookworm-slim
 
-LABEL version="1.0.3"
+LABEL version="1"
 LABEL repository="https://github.com/david4958606/hexo-action"
 LABEL homepage="https://blog.davidwang.org"
 LABEL maintainer="David Wang <david@davidwang.org>"
