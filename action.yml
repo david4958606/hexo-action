@@ -1,5 +1,5 @@
-name: 'Hexo Deploy Action with Node 22'
-description: 'Hexo CI/CD action for automating deployment with nodejs 22.'
+name: 'Hexo Deploy Action with Node 18'
+description: 'Hexo CI/CD action for automating deployment with nodejs 18.'
 author: 'david4958606'
 inputs:
   user_name:
