@@ -1,4 +1,4 @@
-FROM node:22-bookworm-slim
+FROM node:18-slim
 
 LABEL version="1"
 LABEL repository="https://github.com/david4958606/hexo-action"
