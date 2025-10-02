@@ -1,6 +1,6 @@
-FROM node:18-slim
+FROM node:22-slim
 
-LABEL version="1"
+LABEL version="2"
 LABEL repository="https://github.com/david4958606/hexo-action"
 LABEL homepage="https://blog.davidwang.org"
 LABEL maintainer="David Wang <david@davidwang.org>"
