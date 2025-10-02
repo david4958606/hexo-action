@@ -31,4 +31,4 @@ else
     hexo g -d -m "$INPUT_COMMIT_MSG"
 fi
 
-echo ::set-output name=notify::"Deploy complate."
+echo "notify=Deploy complete." >> "$GITHUB_OUTPUT"
